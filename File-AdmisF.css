@@ -1,0 +1,65 @@
+
+*{
+    box-sizing: border-box;
+   white-space: 10px;
+   text-align: center;
+   height: fit-content;
+}
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: contain;
+  
+}
+
+.banner-img p{
+    color: aquamarine;
+}
+.banner-table{
+    font-size: 15px;
+    height: fit-content;
+    font-family: Georgia;
+    background-image: url(img/IP\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    color: rgb(225, 255, 0);
+}
+.container .form{
+    padding-top: 15px;
+    text-align: center;
+    width: 250px;
+    height: 1020px;
+    
+}
+.form  .input-box{
+    width: 500%;
+    margin-top: 20px;
+}
+.input-box label{
+    font-style: italic;
+    border: 30px;
+    color: rgb(230, 230, 248);
+
+}
+.input-box1 label{
+    font-style: oblique;
+}
+.field:hover{
+    background-color:rgb(152, 245, 166); ;
+
+}
+.field:focus{
+    background-color: #fff;
+    border: 2px solid rgba(30, 85, 250, 0.47);
+}
+input[type=radio] {
+    accent-color: rgb(232, 3, 7);
+    
+}
+input[type=checkbox] {
+    accent-color: rgb(3, 232, 38); 
+}

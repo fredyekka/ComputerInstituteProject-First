@@ -1,0 +1,48 @@
+html, body {
+    height:100%;
+    width: 100%;
+    font-family: 'Almendra';
+    }
+h1 {
+color: rgb(45, 12, 230);
+font-size: 25px;
+
+}
+h2{
+  margin-top: 0%;
+  font-size: 22px;
+ color: rgb(170, 13, 13);
+    
+}
+.box-1 i{
+  color: rgb(158, 10, 10);
+}
+h3{
+ font-size: 20px;
+ color: rgb(58, 29, 26);
+}
+.box {
+    width: fit-content;
+    border: 15px solid rgb(0, 126, 128);
+    box-shadow: inset;
+    padding: 50px;
+    margin: 20px;
+    background: linear-gradient(rgb(228, 220, 203),rgb(8, 229, 97),rgb(117, 54, 64));
+    border-radius: 20px;
+  }
+  .box-1{
+    width: fit-content;
+    border: 10px solid rgb(212, 55, 162);
+    box-shadow: inset;
+    padding: 50px;
+    margin: 20px;
+    background: linear-gradient(yellow,rgb(8, 229, 97),pink);
+    border-radius: 20px;
+  }
+ 
+
+
+
+            </html>             
+              </head>
+              </style> 

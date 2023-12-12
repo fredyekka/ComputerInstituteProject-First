@@ -1,0 +1,87 @@
+
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url(img/Per-2.png);
+    background-size: 100% 740px;
+    font-family:'Atomic Age';
+}
+.contain{
+    width: 450px;
+    height: 500px;
+    background: transparent;
+    margin-left: 55%;
+    margin-top: 8%;
+    text-align: center;
+    color: rgb(243, 11, 11);
+    
+   
+}
+.contain h1{
+    font-size: 30px;
+    color: rgb(25, 0, 255);
+    margin-top: 20px;
+}
+
+.contain .text{
+    position: relative;
+
+}
+.inp-1{
+    border:  none;
+    background: transparent;
+    border-bottom: 2px solid rgb(21, 19, 19);
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: rgb(13, 32, 4);
+    margin-left: 10px;
+}
+
+.inp-2{
+    border:  none;
+    background: transparent;
+    border-bottom: 2px solid rgb(21, 19, 19);;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+    color: rgb(13, 32, 4);
+    margin-left: 10px;
+}
+p{
+    margin-top: 25px;
+    font-size: 15px;
+   
+
+}
+
+a{
+    text-decoration: none;
+    color: rgb(41, 14, 247);
+}
+p span{
+    color: rgb(247, 243, 14);
+    cursor: pointer;
+    
+
+}
+.text button{
+    width: 200px;
+    height: 35px;
+    background-color: coral;
+    color: black;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+button:hover{
+    border: 3px solid beige;
+    color: rgb(232, 248, 13);
+}
